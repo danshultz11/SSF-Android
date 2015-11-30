@@ -1,0 +1,23 @@
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes.dex : \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\BuildConfig.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\MainActivity.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\R$attr.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\R$drawable.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\R$string.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\R$xml.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\com\SpaceStationFinder\R.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+C:\SpaceStationFinderANDROID\SpaceStationFinder\platforms\android\ant-build\dexedLibs\classes-418542f0a640f058a27e2acb1b97bcca.jar \
